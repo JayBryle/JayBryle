@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Jay Bryle Alexis Morata
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](Your LinkedIn Profile Link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](Your Twitter Profile Link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square)](Your Portfolio Link)
 
 Welcome to my GitHub profile! I'm passionate about making website creating web application and I am studying hard to be a front-end web developer in the near future. Here you'll find some of my projects and contributions. Feel free to explore!
 
