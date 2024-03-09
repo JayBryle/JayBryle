@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Bryle Alexis Morata</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend developer from Philippines, I currently studying second year college as Bachelor of Science in Information Technology at Saint.paul University of Surigao</h3>
 
 - 📫 How to reach me **jaybrylealexismorata@gmail.com**
 
