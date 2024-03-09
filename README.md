@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I'm passionate about making website creating web a
 
 ## 📫 How to Reach Me
 
-- 📧 Email me at [Your Email Address].
-- 💬 Connect with me on [LinkedIn](Your LinkedIn Profile Link).
+- 📧 Email me at jaybrylealexismorata@gmail.com.
 
 ## ❤️ Support
 
